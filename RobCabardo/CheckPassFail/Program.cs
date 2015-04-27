@@ -10,6 +10,14 @@ namespace CheckPassFail
     {
         static void Main(string[] args)
         {
+            int mark = 0;
+
+            if (mark >= 50)
+                Console.WriteLine("PASS");
+            else
+                Console.WriteLine("FAIL");
+
+            Console.ReadLine();
         }
     }
 }

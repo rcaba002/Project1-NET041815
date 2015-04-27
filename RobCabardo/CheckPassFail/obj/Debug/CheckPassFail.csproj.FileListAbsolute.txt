@@ -1,1 +1,6 @@
 C:\Work\Claim\Project1-NET041815\RobCabardo\CheckPassFail\bin\Debug\CheckPassFail.exe.config
+C:\Work\Claim\Project1-NET041815\RobCabardo\CheckPassFail\bin\Debug\CheckPassFail.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\CheckPassFail\bin\Debug\CheckPassFail.pdb
+C:\Work\Claim\Project1-NET041815\RobCabardo\CheckPassFail\obj\Debug\CheckPassFail.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Project1-NET041815\RobCabardo\CheckPassFail\obj\Debug\CheckPassFail.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\CheckPassFail\obj\Debug\CheckPassFail.pdb
