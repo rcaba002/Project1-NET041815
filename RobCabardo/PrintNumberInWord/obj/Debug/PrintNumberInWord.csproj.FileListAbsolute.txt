@@ -1,1 +1,6 @@
 C:\Work\Claim\Project1-NET041815\RobCabardo\PrintNumberInWord\bin\Debug\PrintNumberInWord.exe.config
+C:\Work\Claim\Project1-NET041815\RobCabardo\PrintNumberInWord\bin\Debug\PrintNumberInWord.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\PrintNumberInWord\bin\Debug\PrintNumberInWord.pdb
+C:\Work\Claim\Project1-NET041815\RobCabardo\PrintNumberInWord\obj\Debug\PrintNumberInWord.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Project1-NET041815\RobCabardo\PrintNumberInWord\obj\Debug\PrintNumberInWord.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\PrintNumberInWord\obj\Debug\PrintNumberInWord.pdb
