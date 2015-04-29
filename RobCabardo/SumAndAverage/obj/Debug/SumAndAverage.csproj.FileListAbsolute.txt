@@ -1,1 +1,6 @@
 C:\Work\Claim\Project1-NET041815\RobCabardo\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+C:\Work\Claim\Project1-NET041815\RobCabardo\SumAndAverage\bin\Debug\SumAndAverage.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\SumAndAverage\bin\Debug\SumAndAverage.pdb
+C:\Work\Claim\Project1-NET041815\RobCabardo\SumAndAverage\obj\Debug\SumAndAverage.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Project1-NET041815\RobCabardo\SumAndAverage\obj\Debug\SumAndAverage.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\SumAndAverage\obj\Debug\SumAndAverage.pdb
