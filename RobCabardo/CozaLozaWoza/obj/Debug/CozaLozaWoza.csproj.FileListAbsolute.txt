@@ -1,1 +1,6 @@
 C:\Work\Claim\Project1-NET041815\RobCabardo\CozaLozaWoza\bin\Debug\CozaLozaWoza.exe.config
+C:\Work\Claim\Project1-NET041815\RobCabardo\CozaLozaWoza\bin\Debug\CozaLozaWoza.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\CozaLozaWoza\bin\Debug\CozaLozaWoza.pdb
+C:\Work\Claim\Project1-NET041815\RobCabardo\CozaLozaWoza\obj\Debug\CozaLozaWoza.csprojResolveAssemblyReference.cache
+C:\Work\Claim\Project1-NET041815\RobCabardo\CozaLozaWoza\obj\Debug\CozaLozaWoza.exe
+C:\Work\Claim\Project1-NET041815\RobCabardo\CozaLozaWoza\obj\Debug\CozaLozaWoza.pdb
