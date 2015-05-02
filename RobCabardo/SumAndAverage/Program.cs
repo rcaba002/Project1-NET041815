@@ -101,11 +101,12 @@ namespace SumAndAverage
                     divisibleSum = divisibleSum + i;
                     divisibleCount++;
                 }
-                for (int n = Convert.ToInt32(anotherLowNumber); n <= Convert.ToInt32(anotherHighNumber); n++)
-                {
-                    sumOfSquares = sumOfSquares + (n * n);                // sums the squares of each number
-                }
                 i++;
+            }
+
+            for (int n = Convert.ToInt32(anotherLowNumber); n <= Convert.ToInt32(anotherHighNumber); n++)
+            {
+                sumOfSquares = sumOfSquares + (n * n);                // sums the squares of each number
             }
 
             Console.WriteLine("The sum of all odd numbers is " + String.Format("{0:n0}", getSum));
